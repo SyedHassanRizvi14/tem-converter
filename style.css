@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    background: #f39292;
+}
+
+#output{
+    height: 0px;
+    color: blue;
+ display: inline;
+ padding: 10px;
+}
+
+
